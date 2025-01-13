@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 My Name is Josh!
 
-<!--
-**difrancesco1/difrancesco1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a full stack software engineer that is particulary interested in back-end development and clean UI/UX designs.
 
-Here are some ideas to get you started:
+Check out my new developer portfolio website here: [portfolio link](https://react-portfolio-nuc1.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Some technologies I have experience with:
+
+    Javascript ES6
+    Golang
+    Typescript
+    React
+    Node
+    Express
+    TailwindCSS
+    Bootstrap
