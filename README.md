@@ -9,6 +9,8 @@ Check out my new developer portfolio website here: [portfolio link](https://reac
 
 - Javascript ES6
 - Golang
+- Java
+- Python
 - Typescript
 - React
 - Node
