@@ -7,13 +7,13 @@ Check out my new developer portfolio website here: [portfolio link](https://reac
 
 ### Some technologies I have experience with:
 
-- Javascript ES6
-- Golang
+- Javascript
+- TypeScript
 - Java
+- Spring Boot
 - Python
-- Typescript
 - React
-- Node
-- Express
+- Next.js
+- Node.js
+- SQL
 - TailwindCSS
-- Bootstrap
