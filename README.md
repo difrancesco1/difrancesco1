@@ -7,12 +7,12 @@ Check out my new developer portfolio website here: [portfolio link](https://reac
 
 ### Some technologies I have experience with:
 
+- Java
 - Javascript
 - TypeScript
-- Java
 - Spring Boot
 - Python
-- React
+- React.js
 - Next.js
 - Node.js
 - SQL
