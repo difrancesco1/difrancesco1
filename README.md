@@ -1,3 +1,3 @@
 co-founder and CTO @ sapling
 
-located in california, usa
+located in Seattle, usa
